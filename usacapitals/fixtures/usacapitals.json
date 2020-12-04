@@ -2,257 +2,257 @@
     {"model": "usacapitals.Capitals",
 
      "fields": {
-        "name": "Alabama",
+        "state": "Alabama",
         "capital": "Montgomery"
     }
     }, 
     {"model": "usacapitals.Capitals",
 
     "fields": {
-        "name": "Alaska",
+        "state": "Alaska",
         "capital": "Juneau"}
     }, 
     {"model": "usacapitals.Capitals",
 
     "fields": {
-        "name": "Arizona",
+        "state": "Arizona",
         "capital": "Phoenix"}
     }, 
     {"model": "usacapitals.Capitals",
 
     "fields": {
-        "name": "Arkansas",
+        "state": "Arkansas",
         "capital": "Little Rock"}
     }, 
     {"model": "usacapitals.Capitals",
 
     "fields": {
-        "name": "California",
+        "state": "California",
         "capital": "Sacramento"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Colorado",
+        "state": "Colorado",
         "capital": "Denver"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Connecticut",
+        "state": "Connecticut",
         "capital": "Hartford"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Delaware",
+        "state": "Delaware",
         "capital": "Dover"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Florida",
+        "state": "Florida",
         "capital": "Tallahassee"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Georgia",
+        "state": "Georgia",
         "capital": "Atlanta"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Hawaii",
+        "state": "Hawaii",
         "capital": "Honolulu"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Idaho",
+        "state": "Idaho",
         "capital": "Boise"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Illinois",
+        "state": "Illinois",
         "capital": "Springfield"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Indiana",
+        "state": "Indiana",
         "capital": "Indianapolis"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Iowa",
+        "state": "Iowa",
         "capital": "Des Moines"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Kansas",
+        "state": "Kansas",
         "capital": "Topeka"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Kentucky",
+        "state": "Kentucky",
         "capital": "Frankfort"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Louisiana",
+        "state": "Louisiana",
         "capital": "Baton Rouge"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Maine",
+        "state": "Maine",
         "capital": "Augusta"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Maryland",
+        "state": "Maryland",
         "capital": "Annapolis"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Massachusetts",
+        "state": "Massachusetts",
         "capital": "Boston"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Michigan",
+        "state": "Michigan",
         "capital": "Lansing"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Minnesota",
+        "state": "Minnesota",
         "capital": "St. Paul"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Mississippi",
+        "state": "Mississippi",
         "capital": "Jackson"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Missouri",
+        "state": "Missouri",
         "capital": "Jefferson City"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Montana",
+        "state": "Montana",
         "capital": "Helena"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Nebraska",
+        "state": "Nebraska",
         "capital": "Lincoln"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Nevada",
+        "state": "Nevada",
         "capital": "Carson City"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "New Hampshire",
+        "state": "New Hampshire",
         "capital": "Concord"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "New Jersey",
+        "state": "New Jersey",
         "capital": "Trenton"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "New Mexico",
+        "state": "New Mexico",
         "capital": "Santa Fe"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "New York",
+        "state": "New York",
         "capital": "Albany"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "North Carolina",
+        "state": "North Carolina",
         "capital": "Raleigh"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "North Dakota",
+        "state": "North Dakota",
         "capital": "Bismarck"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Ohio",
+        "state": "Ohio",
         "capital": "Columbus"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Oklahoma",
+        "state": "Oklahoma",
         "capital": "Oklahoma City"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Oregon",
+        "state": "Oregon",
         "capital": "Salem"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Pennsylvania",
+        "state": "Pennsylvania",
         "capital": "Harrisburg"}
     }, 
     { "model": "usacapitals.Capitals",
         "fields": {
-        "name": "Rhode Island",
+        "state": "Rhode Island",
         "capital": "Providence"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "South Carolina",
+        "state": "South Carolina",
         "capital": "Columbia"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "South Dakota",
+        "state": "South Dakota",
         "capital": "Pierre"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Tennessee",
+        "state": "Tennessee",
         "capital": "Nashville"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Texas",
+        "state": "Texas",
         "capital": "Austin"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Utah",
+        "state": "Utah",
         "capital": "Salt Lake City"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Vermont",
+        "state": "Vermont",
         "capital": "Montpelier"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Virginia",
+        "state": "Virginia",
         "capital": "Richmond"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Washington",
+        "state": "Washington",
         "capital": "Olympia"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "West Virginia",
+        "state": "West Virginia",
         "capital": "Charleston"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Wisconsin",
+        "state": "Wisconsin",
         "capital": "Madison"}
     }, 
     {"model": "usacapitals.Capitals",
     "fields": {
-        "name": "Wyoming",
+        "state": "Wyoming",
         "capital": "Cheyenne"}
     }]
     
