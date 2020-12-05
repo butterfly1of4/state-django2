@@ -1,0 +1,12 @@
+<!-- usacapitals/templates/usacapitals/capital_list.html -->
+{% extends 'usacapitals/base.html' %}
+{% block content%}
+<h2>Capitals <a href=""></a></h2>
+<ul>
+  {% for state in capitals %}
+  <li>
+   {{ Capitals.state }}, {{Capitals.capital}}
+  </li>
+  {% endfor %}
+</ul>
+{% endblock %}
