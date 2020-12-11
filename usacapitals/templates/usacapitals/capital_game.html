@@ -1,0 +1,17 @@
+{% extends 'usacapitals/base.html' %} {% block content%}
+<h2>Game <a href="game/"></a></h2>
+<p>In the input below, enter your guess for the State listed.</p>
+<p>{{capital.state}}</p>
+<!-- {% for state in capitals%} -->
+<!-- {%endfor%}  -->
+
+<form action="/match_capital/" method="GET">
+  {% csrf_token %} 
+  
+  <!-- <input type="number" id="state{{forloop.counter}} value="">  -->
+
+  <input type="text" name="q" value=""/>
+
+  <button type="submit" class="guess_button">Guess</button>
+</form>
+{% endblock %}

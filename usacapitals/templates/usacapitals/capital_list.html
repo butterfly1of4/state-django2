@@ -1,6 +1,7 @@
 <!-- usacapitals/templates/usacapitals/capital_list.html -->
-{% extends 'usacapitals/base.html' %} {% block content%}
-<h2>Capitals <a href=""></a></h2>
+{% extends 'usacapitals/base.html' %} 
+{% block content%}
+<h2>Capitals <a href="capitals/"></a></h2>
 <ul>
   {% for capital in capitals %}
   <li>{{ capital.state }}, {{capital.capital}}</li>
